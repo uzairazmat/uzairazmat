@@ -184,7 +184,7 @@ Yes, for AI Product Engineer, Voice AI, and AI Copilot roles. Reach him on [Link
 
 ## Education, Certifications & Community
 
-- 🎓 **BSCS**, Virtual University of Pakistan (in progress, alongside full-time work)
+- 🎓 **BSCS**, Virtual University of Pakistan 
 - 📜 **IBM Data Science Professional Certificate** (IBM / Coursera, 2024–2025)
 - 📜 **Python + AI Engineer**, PureLogics (2025). Selected from 500+ applicants; 150+ hours across ML, deep learning, NLP, LLMs, and fine-tuning
 - 🌟 **Amal Career Prep Fellow** (2024). Selected from 5,000+ applicants
